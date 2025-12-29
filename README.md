@@ -1,0 +1,2 @@
+# Manufacturing-Data-Integration-AI-Literacy-Program
+Integrated 201 operational files (PO, shipment, forecast, and stock) into analysis-ready tables for AI readiness in a manufacturing environment. Built a material forecasting view linking Finished Goods part numbers to Material Codes via BoM, enabling automated stock status and recommendations. Improved AI literacy (+1.34) with 4.93/5 satisfaction.
